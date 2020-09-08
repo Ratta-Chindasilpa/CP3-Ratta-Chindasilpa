@@ -8,7 +8,7 @@ if usernameInput == "Ratta" and passwordInput == "1150":
     userSelected = int(input("Enter your demand: "))
     banana_price = 5
     orange_price = 10
-    Apple_price = 15
+    apple_price = 15
     if userSelected == 1:
         bananaQuatities = int(input(("Enter your banana quatities: ")))
         print("Your demand: Banana, ", bananaQuatities, "piece(s)")
