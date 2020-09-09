@@ -1,0 +1,5 @@
+print("Hello")
+print(type("Hello"))
+print("Hello, " + "World")
+print("A" * 3)
+print("10" "5")
